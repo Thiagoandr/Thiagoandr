@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá,  me chamo Thiago Andrade e sou programador front-end
+Olá, me chamo Thiago Andrade e Trabalho como programador front-end
 
 
 # 💻 Tech Stack:

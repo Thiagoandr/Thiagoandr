@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, me chamo Thiago Andrade e Trabalho como programador back-end
+I work with automation for the Brazilian government, but here I build automation for personal projects in private repositories, and once they’re ready, they’ll be released as public repositories. My focus is automating social media and repetitive, time-consuming processes
 
 
 # 💻 Tech Stack:
